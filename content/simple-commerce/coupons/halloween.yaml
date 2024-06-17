@@ -1,0 +1,10 @@
+description: 'halloween discount'
+minimum_cart_value: 200
+customer_eligibility: all
+maximum_uses: 40
+valid_from: '2024-06-17'
+expires_at: '2024-11-30'
+id: e33ebc3f-0418-40f8-9537-5a7e59765108
+code: HALLOWEEN
+value: 50
+type: percentage

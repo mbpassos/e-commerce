@@ -1,0 +1,17 @@
+vendor
+.DS_Store
+.phpunit.result.cache
+node_modules
+package-lock.json
+.php_cs.cache
+.idea
+.antlers.json
+composer.lock
+.phpunit.cache
+
+tests/__fixtures__/users/*.yaml
+
+dist
+!dist/.gitkeep
+vite.hot
+.env
